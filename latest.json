@@ -2,8 +2,8 @@
   "version": "0.2.1",
   "date": "2026-09-16",
   "notes": "安装包换装 7z：体积从 103MB 瘦到 66MB；顺手清掉了用不上的引擎部件，功能与界面零变化。",
-  "url": "https://github.com/alphazhan321/riverfox-butler-dist/releases/download/v0.2.1/RiverFoxButler-0.2.1-portable.zip",
-  "sha256": "2D0859087D78BBD0D4EE1CE003B5C334C62807820AB2F4A371B3C45976B1811C",
-  "size": 105400145,
+  "url": "https://github.com/alphazhan321/riverfox-butler-dist/releases/download/v0.2.1/RiverFoxButler-0.2.1-portable.7z",
+  "sha256": "4A67FBC2EC307D276574E8D26A15B91BC16BAD26E18FD10EC09774FB81B77250",
+  "size": 69497642,
   "sig": null
 }
